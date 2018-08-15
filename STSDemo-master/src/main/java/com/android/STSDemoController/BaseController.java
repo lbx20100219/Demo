@@ -20,7 +20,7 @@ import com.android.STSDemoService.BaseService;
 public class BaseController {
 	private static final Logger logger = LoggerFactory.getLogger(BaseController.class);
 	private BaseService baseService;
-	private BaseService baseService1111111111111;
+	private BaseService baseService22222222;
 	
 	public BaseService getBaseService() {
 		return baseService;
